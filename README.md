@@ -1,6 +1,6 @@
 PROJECT: Caesar Cipher Encryption & Decryption Tool
 LANGUAGE: Python
-INTERNSHIP: Codecraft Infotech – Cybersecurity
+INTERNSHIP: Codecraft Infotech – Cybersecurity_01
 
 This program was developed as part of my Codecraft internship assignment.
 It demonstrates a basic encryption technique called the Caesar Cipher. The
